@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/customcontrol">
+        <file>svg/arrow_down.svg</file>
+        <file>svg/arrow_down_disable.svg</file>
+        <file>svg/arrow_left.svg</file>
+        <file>svg/arrow_left_disable.svg</file>
+        <file>svg/arrow_left_hover.svg</file>
+        <file>svg/arrow_right.svg</file>
+        <file>svg/arrow_right_disable.svg</file>
+        <file>svg/arrow_right_hover.svg</file>
+        <file>svg/arrow_up.svg</file>
+    </qresource>
+</RCC>
